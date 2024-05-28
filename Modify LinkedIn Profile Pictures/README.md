@@ -23,10 +23,10 @@
 
 # Screenshots
 
-<img width="750" alt="![Screenshot 2024-05-28 214455]" src="https://github.com/Shivgit42/Chrome-Extension-Profile--Changer/assets/113234131/dd8f9f9e-40d1-41e5-a8ca-e47245ca89e1" />
+<img width="750" alt="![Screenshot 2024-05-28 214455]" src="https://github.com/Shivgit42/Chrome-Extension-Linkedin-Profile-Changer/assets/113234131/9d0d94f9-8e98-4799-8358-592ec8cadef1" />
 
-<img width="750" src="https://github.com/Shivgit42/Chrome-Extension-Profile--Changer/assets/113234131/f7668892-ec1a-44fd-865c-566837ed6e20" >
+<img width="750" src="https://github.com/Shivgit42/Chrome-Extension-Linkedin-Profile-Changer/assets/113234131/348d72d1-09fc-46ea-9bd3-4713e6249600" >
 
-<img width="750" alt="![Screenshot 2024-05-28 214405]" src="https://github.com/Shivgit42/Chrome-Extension-Profile--Changer/assets/113234131/25c765d0-501d-4755-92bb-dd4261802183" />
+<img width="750" alt="![Screenshot 2024-05-28 214405]" src="https://github.com/Shivgit42/Chrome-Extension-Linkedin-Profile-Changer/assets/113234131/f0fec723-6263-471e-8122-47fd3a49c451" />
 
-<img width="750" src="https://github.com/Shivgit42/Chrome-Extension-Profile--Changer/assets/113234131/bde94403-f728-415b-b2e9-675ac15a5c95" />
+<img width="750" src="https://github.com/Shivgit42/Chrome-Extension-Linkedin-Profile-Changer/assets/113234131/1e972cbf-6c2b-417d-a3e6-677bb4c031de" />
