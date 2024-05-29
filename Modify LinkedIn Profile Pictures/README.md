@@ -5,16 +5,17 @@
 # Extension Features
 
 - **_Functionality_**: The extension would successfully replace all profile pictures in posts on the LinkedIn feed.
-- **_Code Quality_**: The code is clean, well-documented, and follow best practices.
-- **_User Experience_**: Ensured that extension would work seamlessly without causing significant delays or issues on the LinkedIn page.
+- **_Code Quality_**: The code is clean, well-documented, and follows best practices.
+- **_User Experience_**: Ensured that the extension would work seamlessly without causing significant delays or issues on the LinkedIn page.
 
 # Setup & Installation
 
 1. Clone the repository.
-2. Open Chrome and go to settings and navigate to chrome://extensions/.
+2. Open Chrome go to settings and navigate to chrome://extensions/.
 3. Enable "Developer mode" in the top right corner.
-4. At the left top corner click on "Load unpacked" and select the directory where you cloned the repository.
-5. Now extension should be added and by default set to active.
+4. At the left top corner, click "Load unpacked" and select the directory where you cloned the repository.
+5. Now, an extension should be added and by default set to active.
+<img width="750" src="https://github.com/Shivgit42/Chrome-Extension-Linkedin-Profile-Changer/assets/113234131/ee464a61-1b71-49ef-8596-23c1422ade7a">
 
 # Now it's time to see magic
 
